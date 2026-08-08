@@ -2,7 +2,8 @@
 
 ![Continuous Square Animation](turtle_continuous_square.gif)
 
-# 🚀 How to Run
+# 🚀 How to Run:
+What we worked on is ROS2 (specifically the ROS2 Jazzy version as shown in the commands
 
 ## 1️⃣ First Terminal (Launch Simulator)
 ```bash
