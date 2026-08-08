@@ -1,5 +1,7 @@
 # 🐢 ROS2 Turtlesim: Precise Continuous Square
 
+![Continuous Square Animation](turtle_continuous_square.gif)
+
 # 🚀 How to Run
 
 ## 1️⃣ First Terminal (Launch Simulator)
